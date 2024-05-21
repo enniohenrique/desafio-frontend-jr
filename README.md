@@ -14,7 +14,7 @@ Código do desafio front-end da empresa mestres da web
 
 ## Demonstração da Aplicação
 
-!Gif ou imagem da aplicação
+![alt text](image.png)
 
 ## Tecnologias Utilizadas
 
